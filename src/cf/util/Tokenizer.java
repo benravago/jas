@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache 2.0
+// SPDX-sourceInfo: Adapted from the Apache Harmony implementation of java.io.StreamTokenizer */
+
 package cf.util;
 
 import java.util.Iterator;
